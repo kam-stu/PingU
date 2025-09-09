@@ -9,4 +9,7 @@ JavaScript -> Discord Bot (Frontend)
 Go -> Backend (Connects JavaScript to database)
 PostgreSQL -> Database
 
+Libraries/Frameworks used:
+JavaScript -> discord.js, Axios
+Go -> Gin
 
